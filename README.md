@@ -8,4 +8,4 @@ Run the STEAM.bat or EPIC GAMES.bat **WITHOUT** administrator permissions.
 
 Wait...
 
-And you can launch the Among Us Sherrif file !
+And you can launch the Among Us Sheriff file !
