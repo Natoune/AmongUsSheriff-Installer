@@ -1,0 +1,18 @@
+------------------------------
+POUR INSTALLER LE MODE SHERIFF
+------------------------------
+
+Si Among Us a été installé via Steam:
+
+Double-Cliquez sur le fichier STEAM,
+si un écran bleu s'affiche, cliquez sur 'Informations Complémentaires', puis sur 'Exécuter quand même'.
+Une fenêtre noire s'ouvre, attendez quelques secondes (ou minutes) pui elle va se fermer.
+Une fois fermé, vous pouvez exécuter le fichier Among US Sheriff qui a été créé dans le Dossier.
+______________________________________________________________________________________________________
+
+Si Among Us a été installé via Epic Games Launcher:
+
+Double-Cliquez sur le fichier EPIC GAMES,
+si un écran bleu s'affiche, cliquez sur 'Informations Complémentaires', puis sur 'Exécuter quand même'.
+Une fenêtre noire s'ouvre, attendez quelques secondes (ou minutes) pui elle va se fermer.
+Une fois fermé, vous pouvez exécuter le fichier Among US Sheriff qui a été créé dans le Dossier.
